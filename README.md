@@ -1,5 +1,5 @@
 # Building a simple neural network from scratch using Python
-This is the code for "How to build a simple neural network from scratch using Python (Intro To Deep Learning For Beginners -Part 2) "
+This is the code for <a href="http://thecaffeinedev.com/specialization/deep-learning/build-simple-neural-network-scratch-using-python-intro-deep-learning-beginners-part-2/">"How to build a simple neural network from scratch using Python (Intro To Deep Learning For Beginners -Part 2) "</a>
 
 <b>Dependencies</b>
 
